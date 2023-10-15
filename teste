@@ -1,0 +1,13 @@
+player
+
+[
+[1, [1, 'craft', 'Olho maldoso', 5, 'Ele te olha com más intenções...', 'imagens/criacao/olhomaldoso.png']], 
+[1, [0, 'craft', 'Gosma verde', 4, 'A gosma mais verde do jogo', 'imagens/criacao/gosmaverde.png']]
+]
+
+inimigo
+
+[
+    [1, [1, 'craft', 'Olho maldoso', 5, 'Ele te olha com más intenções...', 'imagens/criacao/olhomaldoso.png']]
+]
+
