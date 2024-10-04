@@ -8,3 +8,9 @@ As is, this project uses HC-SR04 as the main source of serial data. While I coul
 3. Joystick integration for pew pow and dodging.
 
 Ultimately, using the serial port directly is boring, so I'll change it to something more fun.
+
+## Update on 2024
+
+We finished the game for demonstration and used OpenCV and image capturing to make the moves, but I hated it. This won't be uptated! One day, I'll finish using the sensors.
+
+One day...
